@@ -1,11 +1,6 @@
 # Hi, I'm Tong Jia (*´▽｀)ノノ
 
 Current MSCeng @USC 🏫| Open to work, looking for a 2026 summer start position in SDE / Full-stack👨‍💻
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterjiatong&layout=compact)
-![](https://stats.justsong.cn/api/leetcode/?username=peterjiatong&theme=dark)
-
-
-
 
 ## Resume
 
@@ -45,5 +40,10 @@ Current MSCeng @USC 🏫| Open to work, looking for a 2026 summer start position
 
 ## Projects:
 
-
 ## Course-Work:
+
+## Some Stats
+
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/peterjiatong?theme=light&font=Noto%20Sans%20Osage&ext=activity) -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterjiatong&layout=compact)
