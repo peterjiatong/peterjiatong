@@ -1,10 +1,8 @@
 # Hi, I'm Tong Jia (*´▽｀)ノノ
 
 Current MSCeng @USC 🏫| Open to work, looking for a 2026 summer start position in SDE / Full-stack👨‍💻
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterjiatong)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterjiatong)
-![](https://stats.justsong.cn/api/leetcode?username=peterjiatong&cn=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterjiatong&layout=compact)
+![](https://stats.justsong.cn/api/leetcode/?username=peterjiatong&theme=dark)
 
 
 
