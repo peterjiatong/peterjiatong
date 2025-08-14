@@ -2,23 +2,50 @@
 
 Current MSCeng @USC 🏫| Open to work, looking for a 2026 summer start position in SDE / Full-stack👨‍💻
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterjiatong)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterjiatong)
+![](https://stats.justsong.cn/api/leetcode?username=peterjiatong&cn=true)
+
+
+
+
 ## Resume
 
 📝Click [HERE](/src/resume.md) to view my resume.md | 📝Click [HERE](/src/Tong%20Jia's%20resume.pdf) to view my resume in a pdf
 
+## About Me
+
+🌱 I’m currently learning Go and Kubernetes
+
+🌐 I can speak in English🇺🇸/🇬🇧, Chinese🇨🇳 and a little bit of Japanese🇯🇵
+
+☖ Active Shōgi(Japanese Chess) Player in SF/LA Shōgi club
+
+* 1st place, 2019 US Shōgi (Japanese Chess) Championship, Adolescent Division
+* Captain of Team China, (2022, 2023, 2025) World Shōgi League
+
+🎮 Former member of UC Santa Cruz eSport Team
+
+* 3rd place, North America Hearthstone Collegiate Masters, Spring Season 2022
+* 6th place, , North America Hearthstone Collegiate Masters, Fall Season 2022
+
+🐕‍🦺 Pet parent to a german shepherd(her name is Rainy🌧️)
+
+🏸 Passionate about badminton(My Fav player is Kunlavut Vitidsarn from Thailand🇹🇭)
+
+## 🔗 Connect / 📫 How to reach me:
+
+* Linkedin: www.linkedin.com/in/tong-jia/
+* Github: github.com/peterjiatong
+* Email: tongjia@usc.edu
+* Wechat: p2469187861
+
+## Experience
+
+* 05/2025 - 08/2025,  Software Engineer Internship, Centre Testing International Group Corporation
+* 04/2023 - 05/2024, Research Assistant, Artificial Intelligence Explainability Accountability (AIEA) Lab, UC Santa Cruz
+
+## Projects:
 
 
-<!--
-**peterjiatong/peterjiatong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---
+## Course-Work:
