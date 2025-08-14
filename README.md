@@ -20,7 +20,7 @@ Current MSCeng @USC 🏫| Open to work, looking for a 2026 summer start position
 🎮 Former member of UC Santa Cruz eSport Team
 
 * 3rd place, North America Hearthstone Collegiate Masters, Spring Season 2022
-* 6th place, , North America Hearthstone Collegiate Masters, Fall Season 2022
+* 6th place, North America Hearthstone Collegiate Masters, Fall Season 2022
 
 🐕‍🦺 Pet parent to a german shepherd(her name is Rainy🌧️)
 
