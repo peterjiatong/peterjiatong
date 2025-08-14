@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi, I'm Tong Jia (*´▽｀)ノノ
+
+Current MSCeng @USC 🏫| Open to work, looking for a 2026 summer start position in SDE / Full-stack👨‍💻
+
+## Resume
+
+📝Click [HERE](/src/resume.md) to view my resume.md | 📝Click [HERE](/src/Tong%20Jia's%20resume.pdf) to view my resume in a pdf
+
+
 
 <!--
 **peterjiatong/peterjiatong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
