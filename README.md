@@ -8,14 +8,14 @@ Current MSCeng @USC 🏫| Open to work, looking for a 2026 summer start position
 
 ## About Me
 
-🌱 I’m currently learning Go and Kubernetes
+🌱 I’m currently learning Go(Golang) and Kubernetes
 
-🌐 I can speak in English🇺🇸/🇬🇧, Chinese🇨🇳 and a little bit of Japanese🇯🇵
+🌐 I can speak English🇺🇸/🇬🇧, Chinese🇨🇳 and a little bit of Japanese🇯🇵
 
 ☖ Active Shōgi(Japanese Chess) Player in SF/LA Shōgi club
 
 * 1st place, 2019 US Shōgi (Japanese Chess) Championship, Adolescent Division
-* Captain of Team China, (2022, 2023, 2025) World Shōgi League
+* Captain of Team China, World Shōgi League(Season 2022, 2023, 2025)
 
 🎮 Former member of UC Santa Cruz eSport Team
 
