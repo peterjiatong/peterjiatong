@@ -4,7 +4,9 @@ Current MSCeng @USC 🏫| Open to work, looking for a 2026 summer start position
 
 ## Resume
 
-📝Click [HERE](/src/resume.md) to view my resume.md | 📝Click [HERE](/src/Tong%20Jia's%20resume.pdf) to view my resume in a pdf
+📝Click [HERE](/src/resume.md) to view my resume in Markdown 
+
+📝Click [HERE](/src/Tong%20Jia's%20resume.pdf) to view my resume in a pdf
 
 ## About Me
 
@@ -47,6 +49,12 @@ Current MSCeng @USC 🏫| Open to work, looking for a 2026 summer start position
 | driving-rules          | Contributed to the AIEA Lab’s driving-rules project, extending the functionality to process the DMV Driving Rulebook in Chinese | https://github.com/lgilpin/driving-rules          |
 
 ## Course-Work:
+
+| Project / code Sample                  | Description  | Repo Link                              |
+| -------------------------------------- | ------------ | -------------------------------------- |
+| Machine Learning 1: Supervised Methods | EE559 @ USC  |                                        |
+| MOS-VLSI Circuit Design                | EE477L @ USC | https://github.com/peterjiatong/EE477L |
+|                                        |              |                                        |
 
 ## Some Stats
 
