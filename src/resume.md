@@ -9,7 +9,7 @@
 
 ## EDUCATION
 
-| School                               | Major                                     | Time                        | Location        |
+| School                               | Major                                     | Dates                       | Location        |
 | ------------------------------------ | ----------------------------------------- | --------------------------- | --------------- |
 | University of Southern California    | Master of Science in Computer Engineering | 09/2024 - 05/2026(expected) | Los Angeles, CA |
 | University of California, Santa Cruz | Bachelor of Science in Computer Science   | 09/2020 - 06/2024           | Santa Cruz, CA  |
