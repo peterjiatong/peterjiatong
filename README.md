@@ -51,12 +51,12 @@ Current MSCeng @USC 🏫| Open to work, looking for a 2026 summer start position
 
 ## Course-Work:
 
-| Project / code Sample                  | Description                                                                 | Repo Link                                      | Timeline             |
-| -------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------- | -------------------- |
-| Machine Learning 1: Supervised Methods | EE559 @ USC                                                                 | https://github.com/peterjiatong/EE559          | Spring Semester 2025 |
-| MOS-VLSI Circuit Design                | EE477L @ USC                                                                | https://github.com/peterjiatong/EE477L         | Fall Semester 2024   |
-| Artificial Intelligence                | Pacman Project for CSE 140 @ UC Santa Cruz                                  | https://github.com/peterjiatong/myPacman       | Spring Quarter 2023  |
-| Mini Ball Game                         | Extra credit project for AP Computer Science @ Mission San Jose High School | https://github.com/peterjiatong/mini-ball-game | Fall Semester 2019   |
+| Project        | Description                                                                 | Repo Link                                      | Timeline             |
+| -------------- | --------------------------------------------------------------------------- | ---------------------------------------------- | -------------------- |
+| Course Work    | EE559(Machine Learning 1: Supervised Methods) @ USC                        | https://github.com/peterjiatong/EE559          | Spring Semester 2025 |
+| Course Work    | EE477L(MOS-VLSI Circuit Design) @ USC                                       | https://github.com/peterjiatong/EE477L         | Fall Semester 2024   |
+| Pacman Project | CSE 140(Artificial Intelligence) @ UC Santa Cruz                            | https://github.com/peterjiatong/myPacman       | Spring Quarter 2023  |
+| Mini Ball Game | Extra credit project for AP Computer Science @ Mission San Jose High School | https://github.com/peterjiatong/mini-ball-game | Fall Semester 2019   |
 
 ## Some Stats
 
