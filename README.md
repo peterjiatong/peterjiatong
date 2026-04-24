@@ -1,6 +1,4 @@
-git push -f origin <branch_name>
-
-# Hi, I'm Tong Jia (*´▽｀)ノノ
+# Hi, I'm Tong (Peter) Jia / 贾童
 
 Current MSCeng @USC 🏫| Open to work, looking for a 2026 summer start position in SDE / Full-stack👨‍💻
 
@@ -39,7 +37,7 @@ Current MSCeng @USC 🏫| Open to work, looking for a 2026 summer start position
 
 ## Experience
 
-* 05/2025 - 09/2025,  Software Engineer Intern, Centre Testing International Group Corporation
+* 05/2025 - 09/2025, Software Engineer Intern, Centre Testing International Group Corporation
 * 04/2023 - 05/2024, Research Assistant, Artificial Intelligence Explainability Accountability (AIEA) Lab, UC Santa Cruz
 
 ## Projects:
@@ -53,15 +51,13 @@ Current MSCeng @USC 🏫| Open to work, looking for a 2026 summer start position
 
 ## Course-Work:
 
-| Project / code Sample                  | Description                       | Repo Link                                |
-| -------------------------------------- | --------------------------------- | ---------------------------------------- |
-| Machine Learning 1: Supervised Methods | EE559 @ USC                       | https://github.com/peterjiatong/EE559    |
-| MOS-VLSI Circuit Design                | EE477L @ USC                      | https://github.com/peterjiatong/EE477L   |
-| Artificial Intelligence                | Pacman Project for CSE 140 @ UCSC | https://github.com/peterjiatong/myPacman |
-|                                        |                                   |                                          |
+| Project / code Sample                  | Description                                                                 | Repo Link                                      | Timeline             |
+| -------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------- | -------------------- |
+| Machine Learning 1: Supervised Methods | EE559 @ USC                                                                 | https://github.com/peterjiatong/EE559          | Spring Semester 2025 |
+| MOS-VLSI Circuit Design                | EE477L @ USC                                                                | https://github.com/peterjiatong/EE477L         | Fall Semester 2024   |
+| Artificial Intelligence                | Pacman Project for CSE 140 @ UC Santa Cruz                                  | https://github.com/peterjiatong/myPacman       | Spring Quarter 2023  |
+| Mini Ball Game                         | Extra credit project for AP Computer Science @ Mission San Jose High School | https://github.com/peterjiatong/mini-ball-game | 10/2019              |
 
 ## Some Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterjiatong&layout=compact)
-
-<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/peterjiatong?theme=light&font=Noto%20Sans%20Osage&ext=activity) -->
