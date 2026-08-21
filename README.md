@@ -35,6 +35,10 @@ Software Dev Engineer / Backend Engineer  | Open to full-time job
 * 05/2025 - 06/2026, Software Engineer Intern, Centre Testing International Group Corporation
 * 04/2023 - 05/2024, Research Assistant, Artificial Intelligence Explainability Accountability (AIEA) Lab, UC Santa Cruz
 
+## Resume
+
+📁Please see my resume [here](</src/Tong%20Jia's%20resume.pdf>)
+
 ## Projects:
 
 | Project                          | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Repo Link                                             |
