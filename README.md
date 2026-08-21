@@ -1,6 +1,8 @@
 # Hi, I'm Tong (Peter) Jia / 贾童
 
-M.S. Computer Engineering @USC | B.S. Computer Science @UC Santa Cruz | Software Dev / Backend /  AI agent Engineer | Open to full-time job
+M.S. Computer Engineering @USC | B.S. Computer Science @UC Santa Cruz
+
+Software Dev Engineer / Backend Engineer / AI agent Engineer  | Open to full-time job
 
 ## About Me
 
