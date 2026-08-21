@@ -1,8 +1,6 @@
 # Hi, I'm Tong (Peter) Jia / 贾童
 
-M.S. Computer Engineering @USC | B.S. Computer Science @UC Santa Cruz
-
-Software Dev Engineer / Backend Engineer  | Open to full-time job
+M.S. Computer Engineering @USC | B.S. Computer Science @UC Santa Cruz | Software Dev / Backend /  AI agent Engineer | Open to full-time job
 
 ## About Me
 
@@ -22,13 +20,6 @@ Software Dev Engineer / Backend Engineer  | Open to full-time job
 
 🏸 Passionate about badminton(My Fav player is Kunlavut Vitidsarn from Thailand🇹🇭)
 
-## 🔗 Connect / 📫 How to reach me:
-
-* Linkedin: www.linkedin.com/in/tong-jia/
-* Github: github.com/peterjiatong
-* Email: jtpeter0829@usc.edu
-* Wechat: p2469187861
-
 ## Experience
 
 * 07/2026 - present, Software Engineer Intern, LaunchPath LLC
@@ -38,6 +29,13 @@ Software Dev Engineer / Backend Engineer  | Open to full-time job
 ## Resume
 
 📁Please see my resume [here](</src/Tong%20Jia's%20resume.pdf>)
+
+## 🔗 Connect / 📫 How to reach me:
+
+* Linkedin: www.linkedin.com/in/tong-jia/
+* Github: github.com/peterjiatong
+* Email: jtpeter0829@usc.edu
+* Wechat: p2469187861
 
 ## Projects:
 
